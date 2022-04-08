@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/creamyDAO/static/css/main.a0b259b0.css",
+    "main.js": "/creamyDAO/static/js/main.4e082501.js",
+    "index.html": "/creamyDAO/index.html",
+    "main.a0b259b0.css.map": "/creamyDAO/static/css/main.a0b259b0.css.map",
+    "main.4e082501.js.map": "/creamyDAO/static/js/main.4e082501.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0b259b0.css",
+    "static/js/main.4e082501.js"
+  ]
+}
