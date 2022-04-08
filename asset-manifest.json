@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/creamyDAO/static/css/main.a0b259b0.css",
-    "main.js": "/creamyDAO/static/js/main.e82afec8.js",
+    "main.css": "/creamyDAO/static/css/main.018d6dc2.css",
+    "main.js": "/creamyDAO/static/js/main.bb997915.js",
     "index.html": "/creamyDAO/index.html",
-    "main.a0b259b0.css.map": "/creamyDAO/static/css/main.a0b259b0.css.map",
-    "main.e82afec8.js.map": "/creamyDAO/static/js/main.e82afec8.js.map"
+    "main.018d6dc2.css.map": "/creamyDAO/static/css/main.018d6dc2.css.map",
+    "main.bb997915.js.map": "/creamyDAO/static/js/main.bb997915.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0b259b0.css",
-    "static/js/main.e82afec8.js"
+    "static/css/main.018d6dc2.css",
+    "static/js/main.bb997915.js"
   ]
 }
