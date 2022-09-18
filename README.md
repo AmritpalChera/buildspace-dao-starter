@@ -6,3 +6,5 @@
 2. Run `npm start` to start the project
 
 Let's enjoy the ICEEE CREAMM! VANILLA? CHOCOLATE? 🍦🍦
+
+Live example [here](https://amritpalchera.github.io/MyPortfolio/work.html)
